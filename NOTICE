@@ -1,0 +1,6 @@
+This project is licensed under the MIT License.
+
+It also uses the following third-party library, which is licensed under the Apache License 2.0:
+- [PdfPig] (https://github.com/UglyToad/PdfPig)
+
+The Apache License 2.0 can be found at https://github.com/UglyToad/PdfPig/blob/master/LICENSE.
